@@ -1,6 +1,6 @@
 package preparedstatement;
 
-public class SELECT {
+public class Select {
 	
 
 }

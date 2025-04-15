@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
-public class INSERT {
+public class Insert {
 	private static final String url="jdbc:mysql://localhost:3307/test";
 	private static final String username="root";
 	private static final String pass="root";

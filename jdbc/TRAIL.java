@@ -1,7 +1,7 @@
 package jdbc;
 import java.sql.*;
 
-public class TRAIL {
+public class Trail {
 	private static final String url="jdbc:mysql://localhost:3307/test";
 	private static final String username="root";
 	private static final String pass="root";

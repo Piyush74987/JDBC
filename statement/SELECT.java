@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.Statement;
 import java.sql.ResultSet;
 
-public class SELECT {
+public class Select {
 	private static final String url="jdbc:mysql://localhost:3307/test";
 	private static final String username="root";
 	private static final String pass="root";

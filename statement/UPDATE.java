@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
-public class UPDATE {
+public class Update {
 	private static final String url="jdbc:mysql://localhost:3307/test";
 	private static final String username="root";
 	private static final String pass="root";
@@ -34,4 +34,3 @@ public class UPDATE {
 //output
 //connection done 
 //update done 
-
